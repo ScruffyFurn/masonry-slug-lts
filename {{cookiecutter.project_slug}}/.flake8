@@ -1,0 +1,3 @@
+[flake8]
+# - Line break occurred before a binary operator
+extend-ignore = W503
